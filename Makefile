@@ -5,7 +5,7 @@ SRC = src
 INCLUDE = include
 BUILD = build
 
-TARGET = $(BUILD)/cpcc
+TARGET = cppcc
 
 SRCS = $(SRC)/driver.cpp
 
